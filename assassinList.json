@@ -1,0 +1,28 @@
+[{
+  "id": 1,
+  "name": "Neung Viriyadamrongkij",
+  "imgPath": "xxxx",
+  "nickname": "บาโฟตบมิสโอริซิสตบ 1",
+  "reward": "200,000"
+},
+{
+  "id": 2,
+  "name": "name 02",
+  "imgPath": "xxxx",
+  "nickname": "yyy",
+  "reward": "200,000"
+},
+{
+  "id": 3,
+  "name": "name 03",
+  "imgPath": "xxxx",
+  "nickname": "yyy",
+  "reward": "200,000"
+},
+{
+  "id": 4,
+  "name": "name 04",
+  "imgPath": "xxxx",
+  "nickname": "yyy",
+  "reward": "200,000"
+}]
