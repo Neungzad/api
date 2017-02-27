@@ -1,42 +1,42 @@
 [{
   "id": 1,
-  "name": "Neung Viriyadamrongkij",
-  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/neung.jpg",
-  "nickname": "บาโฟตบมิสโอริซิสตบ 1",
-  "reward": "200,000"
+  "name": "Theerayooth Yod Kosin",
+  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/01.jpg",
+  "nickname": "เมียยิงยังกลิ้งหลบ เมียตบยังหลบได้",
+  "reward": "$ 400,000"
 },
 {
   "id": 2,
-  "name": "name 02",
-  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/neung.jpg",
-  "nickname": "yyy",
-  "reward": "200,000"
+  "name": "Mornlng More",
+  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/02.jpg",
+  "nickname": "บาโฟตบมิส โอริซิสตบ 1",
+  "reward": "$ 120,000"
 },
 {
   "id": 3,
-  "name": "name 03",
-  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/neung.jpg",
-  "nickname": "yyy",
-  "reward": "200,000"
+  "name": "Warin Pornbaiyok",
+  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/03.jpg",
+  "nickname": "โตมาเพราะหญ้าดี",
+  "reward": "$ 45,000"
 },
 {
   "id": 4,
-  "name": "name 04",
-  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/neung.jpg",
-  "nickname": "yyy",
-  "reward": "200,000"
+  "name": "Chonlawit Thongthip",
+  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/04.jpg",
+  "nickname": "คนข้าง ๆ ไร้สาระสิ้นดี",
+  "reward": "$ 60,000"
 },
 {
   "id": 5,
-  "name": "name 05",
-  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/neung.jpg",
-  "nickname": "yyy",
-  "reward": "200,000"
+  "name": "Sopanawit Pichidtienthum",
+  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/05.jpg",
+  "nickname": "อาตมาพาโยก",
+  "reward": "$ 500,000"
 },
 {
   "id": 6,
-  "name": "name 06",
-  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/neung.jpg",
-  "nickname": "yyy",
+  "name": "Chettha Vongpornnimit",
+  "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/06.jpg",
+  "nickname": "พระโหดกระโดดฮีล",
   "reward": "200,000"
 }]
