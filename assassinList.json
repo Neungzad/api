@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "name": "Theerayooth Yod Kosin",
+  "name": "Norman M. Boyd",
   "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/01.jpg",
   "nickname": "บาโฟตบมิส โอริซิสตบ 1",
   "reward": "400,000"
@@ -14,28 +14,28 @@
 }, 
 {
   "id": 3,
-  "name": "Warin Pornbaiyok",
+  "name": "Rebecca B. Moroney",
   "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/03.jpg",
   "nickname": "โตมาเพราะหญ้าดี",
   "reward": "45,000"
 },
 {
   "id": 4,
-  "name": "Chonlawit Thongthip",
+  "name": "Stephen S. Block",
   "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/04.jpg",
-  "nickname": "คนข้าง ๆ ไร้สาระสิ้นดี",
+  "nickname": "บิ๊กซีถูกทุกวัน",
   "reward": "60,000"
 },
 {
   "id": 5,
-  "name": "Sopanawit Pichidtienthum",
+  "name": "Jenny R. Noonan",
   "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/05.jpg",
-  "nickname": "อาตมาพาโยก",
+  "nickname": "18 ท่าใน 5 นาที",
   "reward": "500,000"
 },
 {
   "id": 6,
-  "name": "Chettha Vongpornnimit",
+  "name": "John V. Miller",
   "imgPath": "https://raw.githubusercontent.com/Neungzad/api/master/img/06.jpg",
   "nickname": "พระโหดกระโดดฮีล",
   "reward": "200,000"
